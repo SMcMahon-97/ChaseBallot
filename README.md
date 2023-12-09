@@ -2,13 +2,13 @@
 
 ## Overview
 
-ChaseTheBallot is a Conservative App designed to empower users to actively engage in the democratic process by tracking their ballots. The app provides a user-friendly interface for conservatives to ensure their votes are counted and to stay informed about the progress of their ballots throughout the election cycle.
+ChaseTheBallot is a Conservative App designed to empower users to actively engage in the election process by tracking their ballots. The app provides a user-friendly interface for conservatives to ensure their votes are counted and to stay informed about the progress of their ballots throughout the election cycle.
 
 ## Features
 
 - **Ballot Tracking:** Users can easily track the status and location of their ballots.
 - **Real-time Updates:** Receive real-time notifications on the progress of your ballot.
-- **Conservative-Focused Content:** Access curated content and information relevant to conservative voters.
+- **Conservative-Focused Content:** Access curated content and information relevant to conservative voters, swing voters, and liberal voters.
 - **User-Friendly Interface:** Intuitive design for a seamless user experience.
 
 ## How to Use
